@@ -1,6 +1,12 @@
+<style>
+.no-border {
+   border: none!important;
+}
+</style>
+
 ### Hi there <img src="/hi.gif" width="24"> 
 
-<table border="0" width="100%">
+<table class="no-border" width="100%">
   <tbody>
     <tr>
       <td valign="top">
