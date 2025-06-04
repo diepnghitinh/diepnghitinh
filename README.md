@@ -8,7 +8,54 @@
 <br>
 📱 Mobile: Flutter, Bloc, Push Notification.
 
+<h3>Open Source Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td align="left"><b>Projects</b></td>
+      <td align="right"><b>Stars</b></td>
+      <td align="right"><b>Forks</b></td>
+      <td align="right"><b>Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/diepnghitinh/christian_picker_image">
+          christian_picker_image
+        </a>
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/github/stars/diepnghitinh/christian_picker_image?style=flat-square&labelColor=343b41&colorB=7c3aed">
+      </td>
+      <td align="right">
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/christian_picker_image?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+      </td>
+      <td align="right">
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/christian_picker_image?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/diepnghitinh/christian_lyrics">
+          christian_lyrics
+        </a>
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/github/stars/diepnghitinh/christian_lyrics?style=flat-square&labelColor=343b41&colorB=7c3aed">
+      </td>
+      <td align="right">
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/christian_lyrics?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+      </td>
+      <td align="right">
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/christian_lyrics?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <hr/>
+<br/>
 
 <div class="stats" align="left">
 
