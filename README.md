@@ -55,7 +55,6 @@
 </table>
 
 <hr/>
-<br/>
 
 <div class="stats" align="left">
 
