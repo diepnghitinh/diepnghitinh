@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/diepnghitinh/christian_lyrics" target="_blank">
+        <a href="https://github.com/diepnghitinh/nestjs-bustransit" target="_blank">
           nestjs-bustransit
         </a>
       </td>
