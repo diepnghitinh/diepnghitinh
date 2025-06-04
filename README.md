@@ -21,7 +21,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/diepnghitinh/christian_picker_image">
+        <a href="https://github.com/diepnghitinh/christian_picker_image" target="_blank">
           christian_picker_image
         </a>
       </td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/diepnghitinh/christian_lyrics">
+        <a href="https://github.com/diepnghitinh/christian_lyrics" target="_blank">
           christian_lyrics
         </a>
       </td>
