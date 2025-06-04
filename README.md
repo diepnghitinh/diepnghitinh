@@ -52,6 +52,22 @@
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/christian_lyrics?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/diepnghitinh/christian_lyrics" target="_blank">
+          nestjs-bustransit
+        </a>
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/github/stars/diepnghitinh/nestjs-bustransit?style=flat-square&labelColor=343b41&colorB=7c3aed">
+      </td>
+      <td align="right">
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/nestjs-bustransit?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+      </td>
+      <td align="right">
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/nestjs-bustransit?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
