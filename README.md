@@ -35,6 +35,9 @@
       <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/christian_picker_image?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
+      <td align="left">
+        An image picker plugin for Flutter
+      </td>
     </tr>
     <tr>
       <td>
@@ -51,6 +54,9 @@
       <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/christian_lyrics?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
+      <td align="left">
+        Lyrics song animation plugin for Flutter  
+      </td>
     </tr>
     <tr>
       <td>
@@ -66,6 +72,9 @@
       </td>
       <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/nestjs-bustransit?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+      <td align="left">
+        Service Bus support RabbitMQ, Saga Pattern, Dead letter exchange, ...
       </td>
     </tr>
   </tbody>
