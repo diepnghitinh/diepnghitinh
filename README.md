@@ -17,6 +17,7 @@
       <td align="right"><b>Stars</b></td>
       <td align="right"><b>Forks</b></td>
       <td align="right"><b>Issues</b></td>
+      <td></td>
     </tr>
   </thead>
   <tbody>
