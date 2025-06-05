@@ -5,7 +5,7 @@
 
 🔧 Core: TypeScript, NestJS, React, Azure, Microservices, DDD.
 <br>
-🗄 Database: PostgreSQL, Mysql, GraphQL, Redis, MongoDB.
+🗄 Database: PostgreSQL, Mysql, GraphDB, Redis, MongoDB.
 <br>
 📱 Mobile: Flutter, Bloc, Push Notification.
 
