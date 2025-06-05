@@ -74,7 +74,7 @@
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/nestjs-bustransit?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
       <td align="left">
-        Service Bus support RabbitMQ, Saga Pattern, Dead letter exchange, ...
+        Service Bus supports RabbitMQ, Saga Pattern, Dead letter exchange, ...
       </td>
     </tr>
   </tbody>
