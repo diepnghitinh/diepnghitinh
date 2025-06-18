@@ -61,6 +61,25 @@
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/diepnghitinh/typescript-clean-architecture" target="_blank">
+          typescript-clean-architecture
+        </a>
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/github/stars/diepnghitinh/typescript-clean-architecture?style=flat-square&labelColor=343b41&colorB=7c3aed">
+      </td>
+      <td align="right">
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/typescript-clean-architecture?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+      </td>
+      <td align="right">
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/typescript-clean-architecture?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+      <td align="left">
+        A codebase for clean architecture
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/diepnghitinh/nestjs-bustransit" target="_blank">
           nestjs-bustransit
         </a>
