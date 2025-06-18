@@ -62,7 +62,7 @@
     <tr>
       <td>
         <a href="https://github.com/diepnghitinh/typescript-clean-architecture" target="_blank">
-          typescript-clean-architecture
+          typescript-ddd
         </a>
       </td>
       <td align="right">
