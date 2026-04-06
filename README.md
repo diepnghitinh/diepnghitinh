@@ -129,7 +129,7 @@
         <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/clickhouse-owl?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
       <td align="right">
-        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/clickhouse-owl?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/penma?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
       <td align="left">
         Penma imports live web pages and transforms them into fully editable designs on an infinite canvas.
