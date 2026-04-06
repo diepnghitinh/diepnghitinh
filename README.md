@@ -126,7 +126,7 @@
         <img src="https://img.shields.io/github/stars/diepnghitinh/penma?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
       <td align="right">
-        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/clickhouse-owl?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/penma?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
       <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/penma?style=flat-square&labelColor=343b41&colorB=e11d48"/>
