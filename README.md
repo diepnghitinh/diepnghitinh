@@ -23,6 +23,25 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/diepnghitinh/product-hub" target="_blank">
+          product hub
+        </a>
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/github/stars/diepnghitinh/product-hub?style=flat-square&labelColor=343b41&colorB=7c3aed">
+      </td>
+      <td align="right">
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/product-hub?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+      </td>
+      <td align="right">
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/product-hub?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+      <td align="left">
+        A modern product management tool, suitable for small teams.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/diepnghitinh/christian_picker_image" target="_blank">
           christian_picker_image
         </a>
@@ -138,11 +157,4 @@
   </tbody>
 </table>
 
-<hr/>
-
-<div class="stats" align="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diepnghitinh&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diepnghitinh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)  -->
 </div>
