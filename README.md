@@ -23,6 +23,25 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/diepnghitinh/git-menorah" target="_blank">
+          Git Menorah
+        </a>
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/github/stars/diepnghitinh/git-menorah?style=flat-square&labelColor=343b41&colorB=7c3aed">
+      </td>
+      <td align="right">
+        <img alt="Forks" src="https://img.shields.io/github/forks/diepnghitinh/git-menorah?style=flat-square&labelColor=343b41&colorB=22c55e"/>
+      </td>
+      <td align="right">
+        <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/git-menorah?style=flat-square&labelColor=343b41&colorB=e11d48"/>
+      </td>
+      <td align="left">
+        GitMenorah Workspace Manager is an AI-native CLI tool that leverages Git Worktrees to run background AI agents in isolated environments. It eliminates context switching and merge conflicts, allowing you to build features while agents autonomously fix bugs, write tests, and submit PRs in parallel.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/diepnghitinh/product-hub" target="_blank">
           product hub
         </a>
