@@ -37,7 +37,7 @@
         <img alt="Issues" src="https://img.shields.io/github/issues/diepnghitinh/git-menorah?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
       <td align="left">
-        GitMenorah Workspace Manager is an AI-native CLI tool that leverages Git Worktrees to run background AI agents in isolated environments. It eliminates context switching and merge conflicts, allowing you to build features while agents autonomously fix bugs, write tests, and submit PRs in parallel.
+       A Git worktrees UI and a central control room for your coding agents. Support: Claude, Codex
       </td>
     </tr>
     <tr>
