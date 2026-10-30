@@ -11,7 +11,7 @@
 <p>
 🎯 Product Ownership: <a href="https://www.credly.com/users/nguyen-phuc-nguyen" target="_blank">Professional Scrum Product Owner (PSPO I, II & III)</a> — from foundational product ownership to advanced strategic product management.
 <br>
-🎨 UX/UI & Design: <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/843545e1-d5b5-4036-86e0-a2f434a72630" target="_blank">User Research</a>, <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/05bda978-ab77-455c-96f8-4debf01c228c" target="_blank">Adoption and Appropriation</a>,  <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/e2123ca9-39a4-4199-9597-9a71b6e72412" target="_blank">Journey Mapping</a>, <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/910c9b92-d49a-4fc6-82d7-712557ae12dd" target="_blank">Emotional Design — How to Make Products People Will Love</a>.
+🎨 UX: <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/843545e1-d5b5-4036-86e0-a2f434a72630" target="_blank">User Research</a>, <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/05bda978-ab77-455c-96f8-4debf01c228c" target="_blank">Adoption and Appropriation</a>,  <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/e2123ca9-39a4-4199-9597-9a71b6e72412" target="_blank">Journey Mapping</a>, <a href="https://ixdf.org/members/nguyen-phuc-nguyen/certificate/course/910c9b92-d49a-4fc6-82d7-712557ae12dd" target="_blank">Emotional Design — How to Make Products People Will Love</a>.
 </p>
 🚀 Passionate about software architecture, product development, developer productivity, and building solutions that solve real-world problems.
 
